@@ -28,3 +28,37 @@
 
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+
+
+### 🌐 Most Used Languages
+![My Skills](https://skillicons.dev/icons?i=arabic,english)
+
+> **English:** B1+ (Intermediate High) — *Targeting B2 for Customer Service roles* 🚀
+
+
+### 🌐 Most Used Languages
+![My Skills](https://skillicons.dev/icons?i=arabic,english)
+
+> **English:** B1+ (Intermediate High) — 🎯 **Goal:** Reaching **C1 (Advanced)** for global professional fluency.
+
+---
+
+### 🎯 Learning Goals & Vision
+* 🚀 Mastering **Full-Stack Development** to build scalable and massive web applications.
+* 🌍 Reaching **C1 level** in English to collaborate with international tech teams.
+* 🏛️ Architecture-level expertise in building complex, high-performance systems.
+* 🐍 Deepening **Python** and advanced **JavaScript** frameworks knowledge.
+
+---
+
+### 🔗 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/nourhan-mohamed-222b71371?trk=contact-info<img width="863" height="30" alt="image" src="https://github.com/user-attachments/assets/a17ace6e-faf1-4d11-bda8-f39eb56232b6" />
+" target="blank"><img align="center" src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Nourhan-Shabaan" target="blank"><img align="center" src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://nour222928.github.io/my-portfolio-/"<img width="527" height="28" alt="image" src="https://github.com/user-attachments/assets/33683ab5-6e5f-4cd5-9af2-5be08c520b11" />
+" target="blank"><img align="center" src="https://img.shields.io/badge/PORTFOLIO-6F4E37?style=for-the-badge&logo=react&logoColor=white" /></a>
+<a href="nourhanshabaanmohamed@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+
