@@ -53,7 +53,7 @@
   <a href="https://github.com/Nourhan-Shabaan" target="blank">
     <img align="center" src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://nour222928.github.io/my-portfolio-/" target="blank">
+  <a href="https://github.com/Nourhan-Shabaan.github.io/my-portfolio-/" target="blank">
     <img align="center" src="https://img.shields.io/badge/PORTFOLIO-6F4E37?style=for-the-badge&logo=react&logoColor=white" />
   </a>
   <a href="mailto:nourhanshabaanmohamed@gmail.com" target="blank">
