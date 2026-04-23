@@ -27,7 +27,10 @@
 ---
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nourhanshabaanmohamed)
+[![GitHub](https://github.com/Nourhan-Shabaan)
+[![Portfolio](https://nourhan-shabaan.github.io/my-portfolio-/")
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nourhanshabaanmohamed@gmail.com)
 
 
 ### 🌐 Languages & Fluency
@@ -45,19 +48,4 @@
 * 🐍 Deepening **Python** and advanced **JavaScript** frameworks knowledge.
 
 ---
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/nourhan-mohamed-222b71371" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Nourhan-Shabaan" target="blank">
-    <img align="center" src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://nourhan-shabaan.github.io/my-portfolio-/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/PORTFOLIO-6F4E37?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
-  <a href="mailto:nourhanshabaanmohamed@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
