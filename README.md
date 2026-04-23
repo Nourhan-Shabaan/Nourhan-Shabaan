@@ -31,7 +31,7 @@
 
 
 ### 🌐 Languages & Fluency
-![Arabic](https://img.shields.io/badge/Arabic-Native%20Speaker-blue?style=flat-square&logo=academia) 
+![Arabic](https://img.shields.io/badge/Arabic-Native%20Speaker-blue?style=flat-square&logo=academia) <br><br>
 ![English](https://img.shields.io/badge/English-B1%2B%20(Intermediate)-orange?style=flat-square&logo=googletranslate)
 
 > **Current Goal:** Moving towards **C1 (Advanced)** for global opportunities and building massive Full-Stack projects. 🚀
@@ -53,7 +53,7 @@
   <a href="https://github.com/Nourhan-Shabaan" target="blank">
     <img align="center" src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/Nourhan-Shabaan.github.io/my-portfolio-/" target="blank">
+  <a href="https://nourhan-shabaan.github.io/my-portfolio-/" target="blank">
     <img align="center" src="https://img.shields.io/badge/PORTFOLIO-6F4E37?style=for-the-badge&logo=react&logoColor=white" />
   </a>
   <a href="mailto:nourhanshabaanmohamed@gmail.com" target="blank">
