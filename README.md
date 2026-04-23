@@ -6,11 +6,12 @@
 ---
 
 ### 📝 About Me
-- 🎓 Second-year Student at the Faculty of Science.
-- 💻 Passionate about creating **luxurious** and **minimalist** web experiences.
-- 🎨 Coffee aesthetic lover & UI/UX enthusiast.
-- ✍️ I love writing poems and professional code.
 
+- 💻 **Web Developer** dedicated to crafting high-end, scalable, and functional web applications.
+- 🎓 **Science Student** (2nd Year) combining logical thinking with creative coding.
+- 🎨 Passionate about **Minimalist & Luxurious UI/UX** — I believe in "Code as Art."
+- 🏗️ Aspiring **Full-Stack Engineer** with a vision to build massive, impactful digital systems.
+- ✍️ When I'm not architecting websites, I'm writing poems or exploring the "Coffee Aesthetic."
 ---
 
 ### 🛠️ My Tech Stack
