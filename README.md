@@ -28,8 +28,9 @@
 
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nourhanshabaanmohamed)
-[![GitHub](https://github.com/Nourhan-Shabaan)
-[![Portfolio](https://nourhan-shabaan.github.io/my-portfolio-/")
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nourhan-Shabaan)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%236F4E37.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nourhan-shabaan.github.io/my-portfolio-/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nourhanshabaanmohamed@gmail.com)
 
 
