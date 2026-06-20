@@ -1,6 +1,3 @@
-
-# Hey there, I'm Nourhan Shabaan 👋
-
 # Hey there, I'm Nourhan Shabaan 👋
 
 **Web Developer · Science Student · Creative Writer ✨**
@@ -132,33 +129,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nourhan-Shabaan&style=for-the-badge" alt="Profile Views"/>
 </p>
-
-
-### 📊 GitHub Stats
-![Nourhan's Stats](https://github-readme-stats.vercel.app/api?username=Nourhan-Shabaan&show_icons=true&theme=dracula&rank_icon=github)
-
----
-
-### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nourhanshabaanmohamed)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nourhan-Shabaan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%236F4E37.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nourhan-shabaan.github.io/my-portfolio-/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nourhanshabaanmohamed@gmail.com)
-
-
-### 🌐 Languages & Fluency
-![Arabic](https://img.shields.io/badge/Arabic-Native%20Speaker-blue?style=flat-square&logo=academia) <br><br>
-![English](https://img.shields.io/badge/English-B1%2B%20(Intermediate)-orange?style=flat-square&logo=googletranslate)
-
-> **Current Goal:** Moving towards **C1 (Advanced)** for global opportunities and building massive Full-Stack projects. 🚀
-
----
-
-### 🎯 Learning Goals & Vision
-* 🚀 Mastering **Full-Stack Development** to build scalable and massive web applications.
-* 🌍 Reaching **C1 level** in English to collaborate with international tech teams.
-* 🏛️ Architecture-level expertise in building complex, high-performance systems.
-* 🐍 Deepening **Python** and advanced **JavaScript** frameworks knowledge.
-
----
-
