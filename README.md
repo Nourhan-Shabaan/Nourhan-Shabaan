@@ -54,7 +54,7 @@ HTML       ████████████████████ 99%
 CSS        ██████████████████░░ 90%
 JavaScript ████████████████░░░░ 80%
 PHP        ████████████████░░░░ 80%
-Python     ██████████████░░░░░░ 70%
+Python     ██████████████████░░ 90%
 C#         ████████░░░░░░░░░░░░ 40%
 ```
 
@@ -130,7 +130,7 @@ C#         ████████░░░░░░░░░░░░ 40%
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://nourhan-shabaan.github.io/my-portfolio-/">
+<a href="https://nourhan-shabaan.github.io/PORTFOLIO1/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
