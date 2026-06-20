@@ -47,6 +47,17 @@ My goal is to design and develop scalable, high-performance web applications tha
 </p>
 
 ---
+## 💪 Skills Progress
+
+```text
+HTML       ████████████████████ 99%
+CSS        ██████████████████░░ 90%
+JavaScript ████████████████░░░░ 80%
+PHP        ████████████████░░░░ 80%
+Python     ██████████████░░░░░░ 70%
+C#         ████████░░░░░░░░░░░░ 40%
+```
+
 
 ## 📚 Currently Learning
 
